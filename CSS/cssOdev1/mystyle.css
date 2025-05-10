@@ -1,0 +1,32 @@
+#title{
+    color: cadetblue;
+    text-align: center;
+    margin: 50px;
+}
+
+.section{
+    color: blue;
+    text-align: center;
+    word-spacing: 10px;
+
+}
+.baslık{
+    color: cornflowerblue;
+    text-align: center;
+}
+.paragraf{
+    text-align: center;
+}
+.liste{
+    list-style-position: inside;
+    text-align: center;
+}
+.li{
+    margin: 30px;
+    font-style: initial;
+    
+}
+.basliik{
+    color: cornflowerblue;
+    
+}
