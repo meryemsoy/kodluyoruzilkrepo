@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+}
+body {
+  text-align: center;
+}
+.logo{
+    margin-top: 150px;
+
+}
+.gray{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100px;
+    background-color: gainsboro;
+
+}
+.input-main{
+    height: 25px;
+    width: 20%;
+    margin: 0px auto;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.buttons{
+
+}
+.ocean{
+    background-color: #62b3aa ;
+    height: 200px;
+    width: 33%;
+    padding: 50px 0px;
+
+}
+.ocean li{
+    width: 100%;
+    margin: 5px 0;
+}
+.last{
+     display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px auto;
+}
+.last a {
+  margin-left: 20px;
+}
+.buttons {
+  margin-top: 10px;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+
+
